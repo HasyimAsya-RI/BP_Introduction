@@ -1,4 +1,4 @@
-package com.example.bp_1introduction
+package com.example.bp1832_introduction
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

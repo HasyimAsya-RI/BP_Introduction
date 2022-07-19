@@ -1,4 +1,4 @@
-package com.example.bp_1introduction
+package com.example.bp1832_introduction
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
